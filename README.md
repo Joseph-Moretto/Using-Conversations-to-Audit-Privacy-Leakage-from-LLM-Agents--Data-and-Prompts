@@ -4,6 +4,6 @@ This repository contains the data and prompts used in our paper "Using Conversat
 
 Each foldr should contain readme with an explanation of the data. 
 # TODO
-Update the main readme with a better description 
-Put descriptions in the folders readme on the data
-Especially outline the sources for the safety prompts
+Update the main readme with a better description /
+Put descriptions in the folders readme on the data /
+Especially outline the sources for the safety prompts 
