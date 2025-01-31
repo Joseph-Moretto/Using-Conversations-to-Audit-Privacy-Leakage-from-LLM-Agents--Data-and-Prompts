@@ -1,13 +1,5 @@
-# Using-Conversations-to-Audit-Privacy-Leakage-from-LLM-Agents--Data-and-Prompts
+# Overview
+This repository contains data used in "Using Conversations to Audit Privacy Leakage from LLM Agents". 
 
-This repository contains the data and prompts used in our paper "Using Conversations to Audit Privacy Leakage from LLM Agents"
+Each folder contains README describing that data in that folder. 
 
-Each foldr should contain readme with an explanation of the data. 
-# TODO
-
-get rid of identifying information?
-Update the main readme with a better description 
-
-Put descriptions in the folders readme on the data 
-
-Especially outline the sources for the safety prompts 
