@@ -3,4 +3,4 @@ The safety prompts used in the paper are modified from Racoon Bench, a benchmark
 
 The prompts were modified to target specific private attributes instead of system prompts. 
 
-These prompts were used to establish a baseline for he defender. 
+These prompts were used to establish a baseline for LLM agent's defenses. 
